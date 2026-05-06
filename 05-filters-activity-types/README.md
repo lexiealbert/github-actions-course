@@ -71,7 +71,7 @@ on:
       - v*
 ```
 
-In this example, the workflow runs when a tag starting with "v" is pushed.
+In this example, the workflow runs when a tag starting with "v" is pushed
 
 ## Activity Types
 
