@@ -1,5 +1,6 @@
 name: 06-exercise
 
+run-name: My custom workflow run name - ${{ runner.os }}
 on: workflow_dispatch
 jobs:
   echo-data:
