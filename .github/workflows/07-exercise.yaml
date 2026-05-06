@@ -2,10 +2,10 @@ name: 07-exercise
 on:
   workflow_dispatch:
     inputs:
-     debug:
-       type: boolean
-       description: "Run debug mode"
-       default: false
+      debug:
+        type: boolean
+        description: "Run debug mode"
+        default: false
 
 jobs:
   echo:
